@@ -19,14 +19,14 @@ This repository documents my complete learning journey—from cleaning raw datas
 
 ## 📸 Project Preview
 
-### Excel Dashboard
-![Excel Dashboard](Week%201/Dashboard%20(excel).png)
+### Power BI Dashboard
+![Power BI Dashboard](Week%204/Visualization/Final%20Dashboard.png)
 
 ### Python EDA
 ![Python EDA](Week%204/Visualization/python%20EDA.png)
 
-### Power BI Dashboard
-![Power BI Dashboard](Week%204/Visualization/Final%20Dashboard.png)
+### Excel Dashboard
+![Excel Dashboard](Week%201/Dashboard%20(excel).png)
 
 ---
 

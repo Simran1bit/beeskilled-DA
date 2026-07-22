@@ -201,6 +201,9 @@ The capstone project included a Linear Regression model to predict sales.
 | MAE | **9,536.97** |
 | RMSE | **14,402.17** |
 
+### Actual vs Predicted Sales
+![Actual vs Predicted Sales](Week%204/Model/Predicted%20Sales.png)
+
 The model demonstrated excellent predictive performance, with predictions closely matching the actual sales values.
 
 ---
